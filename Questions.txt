@@ -1,0 +1,11 @@
+1) what is react ?
+2) state vs props ?
+3) what is jsx ? and how it is used with react to generate UI?
+4) what is life cycle component ?
+5) functional component vs class component ?
+6) Advantages of react ?
+7) Limitations of react ?
+8) framework vs library ?
+9) what is data binding ?
+10) what is virtual DOM ?
+11)
